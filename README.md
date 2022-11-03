@@ -1,0 +1,1 @@
+# 2_Sayi_Tam_Kat_Durumu
